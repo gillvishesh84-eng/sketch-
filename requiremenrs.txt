@@ -1,4 +1,5 @@
 numpy 
-matplot.lib
-opencv. python
-stremlit
+matplotlib
+opencv-python-headless
+pillow
+streamlit
