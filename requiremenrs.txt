@@ -1,0 +1,4 @@
+numpy 
+matplot.lib
+opencv. python
+stremlit
